@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top{
+    background-color: #659e8b;
+    height: 7em;
+    justify-content: center;
+    font-family: 'Koulen', cursive;
+    font-size: larger;
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+
+.logo{
+    border: aliceblue 5px;
+    border-style: dashed;
+    border-radius: 50px 50px;
+    margin-top: 5px;
+    margin-left: 47%;
+    height: 110px;
+    width: 110px;
+    position: absolute;
+}
+
+.resumo{
+    margin-top: 25px;
+}
+
+.coluna-esq{
+    margin-top: 2%;
+    margin-left: 20%;
+}
+
+.anarosa{
+    float: left;
+    background-color: aliceblue;
+}
+
+.anarosarec{
+    margin-left: 5%;
+    float: left;
+}
+.cursosdois{
+    margin-top: 20%;
+}
+.coluna-dir{
+    margin-left: 20%;
+}
+
+.anarosapen{
+    float: left;
+}
+
+.cna{
+    float: right;
+    margin-right: 35%;
+}
+
+
+.titulos{
+    text-align: center;
+}
+
+footer{
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 36%;
+    height: 68px;
+    width: 100%;
+    font-family: 'Koulen', cursive;
+    background-color: #659e8b;
+}
